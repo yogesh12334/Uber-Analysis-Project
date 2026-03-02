@@ -60,3 +60,7 @@ Ensure you have Power BI Desktop installed.
 Open the Uber_Analytics.pbix file.
 
 (Optional) The raw dataset is provided in the Data folder if you wish to perform your own transformations.
+
+
+<img width="1318" height="734" alt="image" src="https://github.com/user-attachments/assets/13c2d2a4-595e-4033-9aef-f54b4167ad40" />
+
